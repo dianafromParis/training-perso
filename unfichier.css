@@ -1,0 +1,173 @@
+@font-face {
+font-family:"Free Sans";
+src:url("fonts/FreeSans.eot?") format("eot"),url("fonts/FreeSans.woff") format("woff"),
+url("fonts/FreeSans.ttf") format("truetype"),url("fonts/FreeSans.svg#FreeSans") format("svg");
+
+font-weight:normal;
+font-style:normal;}
+
+body {
+
+	background-color: #5C6066;
+}
+
+
+.avatar {
+	width:56px;
+	border-radius: 28px;
+}
+
+.bandw {
+	-webkit-filter: grayscale(1);
+	filter:grayscale(1);	
+}
+
+.S {
+	width:44px;
+	border-radius: 50%;
+}
+
+
+.medium {
+	font-size: medium;
+}
+
+#container {
+
+	background-color:transparent;
+	width: 666px;
+	height:543px;
+	margin-top: 5%;
+	margin-left:25%;
+	font-size: 0px;
+	font-family:"Free Sans";
+	position: relative;
+	box-shadow: 30px 30px 30px 10px #46484B;
+}
+
+
+#name { 
+	width:406px;
+	height:63px;
+	background-color:#46484B;
+	color:white;
+	font-size:22px;
+	margin-left:260px;
+	text-align: center;
+	position: relative;
+}
+
+#name h6 {
+	padding-top: 24px;
+}
+
+#name i {
+	font-size: 20px;
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+}
+
+#menu {
+
+	width: 260px;
+	height: 430px;
+	background-color: #2A2C2E;
+	color: #6E7276;
+	font-size:22px;
+	padding-top:50px; 
+	float: left;
+}
+
+#menu img, h6 {
+
+	margin-left: 45px;
+}
+
+.active {
+
+	color:#FEC62C;
+	border-left: 2px solid #FEC62C;
+	margin-left: 0px;
+	padding-left: 45px;
+}
+
+#description {
+	
+	width: 406px;
+	height: 63px; 
+	background-color:#808283;
+	color:white;
+	font-size:12px;
+	text-align: left;
+	float:left;
+	position: relative;
+}
+
+#description ul {
+	margin-left: -20px;
+
+}
+
+#description ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 1%;
+	margin-top: -6px;
+}
+
+#description img {
+	vertical-align: middle;
+}
+
+#description i {
+	font-size: 20px;
+	position: absolute;
+	right: 20px;
+	bottom: 24px;
+}
+
+
+#div-4 {
+	width: 406px;
+	height: 417px;
+	background-color:#F9F9F9;
+	color:#4B4D50;
+	font-size:15px; 
+	float:left;
+}
+
+
+span {
+	font-size: 12px;
+	opacity: 0.5;
+}
+
+
+.fred {
+	margin-left: 30px;
+}
+
+.bubble {
+	max-width: 170px;
+	border-radius: 16px;
+	border:none;
+	background-color: white;
+	padding: 4px 16px;
+}
+
+.bubbletan {
+	max-width : 170px;
+	border-radius : 16px 0px 16px 20px;
+	border :none;
+	color : white;
+	background-color: #FEC62C;
+	padding : 4px 16px;	
+	margin-left : 45%
+}
+
+.fred, .bubble {
+
+	display: inline-block;
+	margin-right: 20px;
+}
