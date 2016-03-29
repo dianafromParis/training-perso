@@ -1,5 +1,5 @@
-# Challenge donné par Rodolphe
-#### Entraînement positionnement CSS
-(mer 03.02.2016)
+## Entraînement positionnement CSS (challenge donné par Rodolphe)
+#### Résultat [**ici**](https://dianatecher.github.io/training-perso/)
+Non responsive. 
+(OK sur une résolution de 1920*1080)
 
-Résultat [**ici**](https://dianatecher.github.io/training-perso/)
